@@ -16,6 +16,9 @@
   top: var(--bar-height);
   left: var(--bar-height);
   z-index: 10;
+  width: 100vh !important;
+  max-width: 100vh !important;
+  min-width: 100vh !important;
 }
 
 .tabbrowser-tab {
